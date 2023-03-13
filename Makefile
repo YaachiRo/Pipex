@@ -1,5 +1,7 @@
 NAME = pipex
 
+
+
 SRCS =	mandatory/main.c 		\
 		mandatory/childs.c 		\
 	 	tools/ft_strlcpy.c		\
